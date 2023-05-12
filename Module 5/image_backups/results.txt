@@ -1,0 +1,4 @@
+Matched fimage files found
+filename,hash, match file
+image3.jpg,ffc3c100e0cec9ff,image2.jpg
+image2.jpg,ffc3c100e0cec9ff,image3.jpg
